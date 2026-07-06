@@ -4,38 +4,9 @@ This repository contains my mechanical design projects developed as part of engi
 
 ## Featured Projects
 
-### 1. Automated Silicone Gasket Assembly System for Glass Lids
-An automated machine concept for high-speed gasket insertion onto glass lids, focusing on productivity, repeatability, and manufacturability.
+# 🚀 Featured Projects
 
-**Highlights**
-- Automated Feeding System
-- Pick & Place Mechanism
-- Pneumatic Pressing
-- Production Rate Optimization
-- DFMA
-
-➡️ Project Folder:
-`AUTOMATED-SILICONE-GASKET-ASSEMBLY-SYSTEM`
-
----
-
-### 2. RFID Hybrid Enclosure
-
-Design of a rugged enclosure integrating RFID electronics with mechanical protection, considering manufacturability, assembly, and environmental protection.
-
-**Highlights**
-- Plastic Enclosure Design
-- Assembly Design
-- Component Packaging
-- DFM
-- Mechanical Protection
-
-➡️ Project Folder:
-`RFID-Hybrid-Enclosure`
-
----
-
-### 3. Dual-Axis Solar Panel Gimbal Mechanism
+## ☀️ 1. Dual-Axis Solar Panel Gimbal Mechanism
 
 Conceptual mechanical design of a dual-axis solar tracking mechanism for maximizing solar energy collection.
 
@@ -51,7 +22,39 @@ Conceptual mechanical design of a dual-axis solar tracking mechanism for maximiz
 
 ---
 
-### 4. Miniature Farfalle Pasta Production System
+## 🤖 2. Automated Silicone Gasket Assembly System
+
+An automated machine concept for high-speed gasket insertion onto glass lids, focusing on productivity, repeatability, and manufacturability.
+
+**Highlights**
+- Automated Feeding System
+- Pick & Place Mechanism
+- Pneumatic Pressing
+- Production Rate Optimization
+- DFMA
+
+➡️ Project Folder:
+`AUTOMATED-SILICONE-GASKET-ASSEMBLY-SYSTEM`
+
+---
+
+## 📡 3. RFID Hybrid Enclosure
+
+Design of a rugged enclosure integrating RFID electronics with mechanical protection, considering manufacturability, assembly, and environmental protection.
+
+**Highlights**
+- Plastic Enclosure Design
+- Assembly Design
+- Component Packaging
+- DFM
+- Mechanical Protection
+
+➡️ Project Folder:
+`RFID-Hybrid-Enclosure`
+
+---
+
+## 🍝 4. Miniature Farfalle Pasta Production System
 
 Senior Mechanical Engineer technical assessment focused on miniaturizing an industrial pasta forming process while maintaining manufacturability and food-grade design standards.
 
@@ -66,6 +69,7 @@ Senior Mechanical Engineer technical assessment focused on miniaturizing an indu
 
 ➡️ Project Folder:
 `Miniature-Farfalle-Pasta-Production-System`
+
 
 ## Software Used
 

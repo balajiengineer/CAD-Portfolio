@@ -142,22 +142,6 @@ The assembly consists of:
 
 ---
 
-# 📄 Complete Technical Report
-
-The report includes:
-
-- Problem Analysis
-- Engineering Assumptions
-- Design Methodology
-- CAD Models
-- Manufacturing Considerations
-- Material Selection
-- Bill of Materials
-- Mass Estimation
-
-📥 **[View Complete Report](./Technical_Assessment_Report.pdf)**
-
----
 
 # 🏆 Skills Demonstrated
 

@@ -1,268 +1,125 @@
-<div align="center">
+# 🖼️ Project Gallery
 
-# 🤖 Automated Silicone Gasket Assembly System for Glass Lids
-
-### Mechanical Automation | Machine Design | SCARA Robotics | Pneumatics
-
-![Status](https://img.shields.io/badge/Project-Completed-success)
-![CAD](https://img.shields.io/badge/CAD-Creo-blue)
-![Automation](https://img.shields.io/badge/Automation-Industrial-orange)
-![Production](https://img.shields.io/badge/Target-60%20PPM-brightgreen)
-
----
-
-### Designed & Developed by
-
-## Balaji Jegan Maheshwaran T
-
-Mechanical Design Engineer
-
-</div>
-
----
-
-# 📌 Project Overview
-
-The **Automated Silicone Gasket Assembly System for Glass Lids** was developed as a conceptual industrial automation solution to eliminate manual gasket installation during glass lid manufacturing.
-
-The system automates the complete gasket assembly process including bulk feeding, singulation, robotic pick-and-place, pneumatic seating and final inspection while maintaining continuous conveyor operation.
-
-The proposed design focuses on improving manufacturing productivity, assembly consistency and operator safety while achieving a production target of **60 Parts Per Minute (PPM)**.
-
----
-
-# 🎯 Design Objectives
-
-## Primary Objectives
-
-- Automate silicone gasket placement
-- Automate gasket seating
-- Maintain continuous conveyor operation
-- Achieve 60 Parts Per Minute
-- Reduce manual labour
-
-## Secondary Objectives
-
-- Improve repeatability
-- Improve product quality
-- Reduce production downtime
-- Improve operator safety
-- Enable future scalability
-
----
-
-# ⚙️ System Architecture
-
-The complete automation cell consists of the following subsystems:
-
-- Bulk Gasket Storage Hopper
-- Vibratory Distribution Table
-- Gasket Singulation Lane
-- Pick Nest with Pneumatic Lift Pin
-- SCARA Robot
-- Pneumatic Seating Station
-- Inspection Camera
-- Conveyor System
-- Safety Enclosure
-
----
-
-# 🔄 Working Principle
-
-The assembly process follows a fully automated sequence:
-
-1. Bulk silicone gaskets are loaded into the hopper.
-2. The vibratory table distributes and separates the gaskets.
-3. The singulation lane presents one gasket at the pickup location.
-4. The pneumatic lift pin raises the gasket.
-5. The SCARA robot picks the gasket using vacuum gripping.
-6. The robot accurately places the gasket onto the glass lid.
-7. The pneumatic seating station applies controlled force to ensure proper seating.
-8. The inspection camera verifies gasket presence and seating quality.
-9. Finished assemblies exit through the conveyor.
-
----
-
-# 🧩 Major Mechanical Components
-
-### Hopper
-
-Provides continuous bulk gasket storage and feeding.
-
-### Vibratory Distribution Table
-
-Separates gaskets and prevents overlapping.
-
-### Singulation Lane
-
-Ensures only one gasket reaches the pickup point.
-
-### Pick Nest with Pneumatic Lift Pin
-
-Provides repeatable positioning for reliable robotic pickup.
-
-### SCARA Robot
-
-High-speed robotic pick-and-place operation with excellent repeatability.
-
-### Pneumatic Seating Station
-
-Applies controlled seating force without damaging the glass lid.
-
-### Inspection Camera
-
-Performs final quality verification before product exit.
-
-### Safety Enclosure
-
-Protects operators from moving robotic and pneumatic components.
-
----
-
-# 📐 Engineering Design Highlights
-
-- Production Rate : **60 Parts/Minute**
-- Cycle Time : **1 Second**
-- Conveyor Width : **75 mm**
-- Pick Nest Diameter : **69 mm**
-- Hopper Capacity : **10 kg**
-- Pneumatic Seating Pressure : **2–3 Bar**
-
----
-
-# 🛠 Software Used
-
-- Creo Parametric
-- AutoCAD
-- Mechanical Design Principles
-
----
-
-# 📊 Engineering Activities
-
-- Machine Concept Development
-- Mechanism Design
-- Layout Design
-- Automation Planning
-- DFMA
-- Pneumatic System Integration
-- Robot Cell Layout
-- Component Selection
-- Design Validation
-- Engineering Documentation
-
----
-
-# ⚠ Risk Assessment
-
-The design considered several manufacturing risks including:
-
-- Multiple gasket feeding
-- Missing gasket detection
-- Misalignment
-- Glass damage
-- Vibratory feeder blockage
-- Production downtime
-
-Appropriate mitigation methods such as singulation lanes, inspection cameras and pneumatic control systems were incorporated into the design.
-
----
-
-# 💰 Estimated Project Cost
-
-| Component | Description |
-|------------|-------------|
-| SCARA Robot | Robotic Pick & Place |
-| Conveyor System | Material Transfer |
-| Vibratory Feeding System | Gasket Feeding |
-| Pneumatic Components | Seating Mechanism |
-| Sensors | Detection |
-| Inspection Camera | Quality Inspection |
-| PLC & Control Panel | Automation Control |
-
-**Estimated Project Cost:** **₹5.5 Lakhs**
-
----
-
-# 🚀 Key Features
-
-- High-speed production
-- Continuous conveyor operation
-- Reduced labour dependency
-- Consistent gasket seating
-- Improved product quality
-- Modular architecture
-- Easy maintenance
-- Future Industry 4.0 compatibility
-
----
-
-# 🔮 Future Improvements
-
-- Vision-guided robotic alignment
-- AI-based defect detection
-- Automatic hopper refilling
-- Conveyor tracking
-- Industry 4.0 integration
-- Production dashboard
-- Real-time monitoring
+(Images)
 
 ---
 
 # 📄 Project Report
 
-The complete design report, including the concept development, design methodology, engineering calculations, CAD layouts, risk assessment, cost estimation, and final system integration, is available below.
+The complete engineering report is available below.
 
-## 📥 View / Download Report
-
-➡️ **[📄 Automated Silicone Gasket Assembly System for Glass Lids - Project Report](./Project_Report.pdf)**
+📥 [Download Project Report](./Project_Report.pdf)
 
 ---
 
-# 🖼️ Project Gallery
+# 🎯 Problem Statement
 
-## Overall System Layout
-
-<img src="CAD_Images/System_Layout.png" width="900"/>
+Briefly explain the manufacturing problem addressed by this project.
 
 ---
 
-## Final CAD Assembly
+# 💡 Proposed Solution
 
-<img src="CAD_Images/Final_Assembly.png" width="900"/>
-
----
-
-## Hopper
-
-<img src="CAD_Images/Hopper.png" width="700"/>
+Describe the selected concept and why it was chosen.
 
 ---
 
-## SCARA Robot
+# ⚙️ System Architecture
 
-<img src="CAD_Images/SCARA_Robot.png" width="700"/>
+- Hopper
+- Vibratory Distribution Table
+- Singulation Lane
+- Pick Nest
+- SCARA Robot
+- Pneumatic Seating Station
+- Inspection Camera
+- Conveyor
+
+---
+
+# 🔄 Working Principle
+
+1. Hopper Feeding
+2. Vibratory Distribution
+3. Singulation
+4. Pneumatic Lift
+5. Robot Pick
+6. Robot Placement
+7. Pneumatic Seating
+8. Inspection
+9. Finished Product
+
+---
+
+# 📊 Engineering Calculations
+
+- Production Rate : 60 PPM
+- Cycle Time : 1 sec
+- Pick Nest Diameter : 69 mm
+- Hopper Capacity : 10 kg
+- Pneumatic Pressure : 2–3 bar
+
+---
+
+# 🛠️ Components Used
+
+| Component | Purpose |
+|------------|---------|
+| Hopper | Bulk Storage |
+| Vibratory Table | Feeding |
+| SCARA Robot | Pick & Place |
+| Pneumatic Cylinder | Seating |
+| Inspection Camera | Quality Inspection |
+
+---
+
+# 💰 Cost Estimation
+
+Estimated Cost : **₹5.5 Lakhs**
+
+---
+
+# ⚠️ Risk Assessment
+
+- Multiple Gasket Feed
+- Missing Gasket
+- Misalignment
+- Glass Damage
+- Vibratory Blockage
+
+---
+
+# 🚀 Future Improvements
+
+- AI Vision Inspection
+- Automatic Hopper Refilling
+- Conveyor Tracking
+- Industry 4.0
+- Production Dashboard
+
+---
 
 # 🏆 Skills Demonstrated
 
 - Mechanical Design
-- Product Development
-- Industrial Automation
-- SCARA Robot Integration
-- Pneumatic System Design
-- Conveyor System Design
-- DFMA
-- Engineering Calculations
 - Machine Design
-- CAD Modelling
-- Design Documentation
+- Industrial Automation
+- Pneumatics
+- Product Development
+- Creo Parametric
+- DFMA
+- Engineering Documentation
 
 ---
 
-<div align="center">
+# 📬 Contact
 
-### ⭐ Industrial Automation Concept Design Portfolio
+**Balaji Jegan Maheshwaran T**
 
-Designed by **Balaji Jegan Maheshwaran T**
+Mechanical Design Engineer
 
-</div>
+📧 balaji.jegant@outlook.com
+
+💼 LinkedIn
+
+https://linkedin.com/in/balajiengineer

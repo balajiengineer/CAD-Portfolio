@@ -34,7 +34,7 @@ An automated machine concept for high-speed gasket insertion onto glass lids, fo
 - DFMA
 
 ➡️ Project Folder:
-`AUTOMATED-SILICONE-GASKET-ASSEMBLY-SYSTEM`
+[Automated Silicone Gasket Assembly System](https://github.com/balajiengineer/CAD-Portfolio/tree/main/AUTOMATED-SILICONE-GASKET-ASSEMBLY-SYSTEM)
 
 ---
 
@@ -50,7 +50,7 @@ Design of a rugged enclosure integrating RFID electronics with mechanical protec
 - Mechanical Protection
 
 ➡️ Project Folder:
-`RFID-Hybrid-Enclosure`
+[RFID Hybrid Enclosure](https://github.com/balajiengineer/CAD-Portfolio/tree/main/RFID-Hybrid-Enclosure)
 
 ---
 
@@ -68,7 +68,7 @@ Senior Mechanical Engineer technical assessment focused on miniaturizing an indu
 - Design for Manufacturing
 
 ➡️ Project Folder:
-`Miniature-Farfalle-Pasta-Production-System`
+[Miniature Farfalle Pasta Production System](https://github.com/balajiengineer/CAD-Portfolio/tree/main/Miniature-Farfalle-Pasta-Production-System)
 
 
 ## Software Used

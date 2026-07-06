@@ -18,7 +18,7 @@ Conceptual mechanical design of a dual-axis solar tracking mechanism for maximiz
 - Design Calculations
 
 ➡️ Project Folder:
-`Dual-Axis-Solar-Panel-Gimbal-Mechanism`
+ [Dual-Axis Solar Panel Gimbal Mechanism](https://github.com/balajiengineer/Industrial-Projects/tree/main/Dual-Axis-Solar-Panel-Gimbal-Mechanism)
 
 ---
 

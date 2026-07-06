@@ -1,43 +1,63 @@
-<div align="center">
+# 🚀 Industrial & Engineering Design Projects
 
-# 📐 CAD Portfolio
+This repository contains my mechanical design projects developed as part of engineering assessments, product development studies, and concept design activities.
 
-Creo • CATIA • SolidWorks • Siemens NX
+## Featured Projects
 
-</div>
+### 1. Automated Silicone Gasket Assembly System for Glass Lids
+An automated machine concept for high-speed gasket insertion onto glass lids, focusing on productivity, repeatability, and manufacturability.
 
----
+**Highlights**
+- Automated Feeding System
+- Pick & Place Mechanism
+- Pneumatic Pressing
+- Production Rate Optimization
+- DFMA
 
-# Creo Parametric
-
-<img src="Creo/1.png" width="850"/>
-
-<img src="Creo/2.png" width="850"/>
-
-<img src="Creo/3.png" width="850"/>
-
----
-
-# SolidWorks
-
-<img src="SolidWorks/1.png" width="850"/>
+➡️ Project Folder:
+`AUTOMATED-SILICONE-GASKET-ASSEMBLY-SYSTEM`
 
 ---
 
-# CATIA V5
+### 2. RFID Hybrid Enclosure
 
-<img src="CATIA/1.png" width="850"/>
+Design of a rugged enclosure integrating RFID electronics with mechanical protection, considering manufacturability, assembly, and environmental protection.
+
+**Highlights**
+- Plastic Enclosure Design
+- Assembly Design
+- Component Packaging
+- DFM
+- Mechanical Protection
+
+➡️ Project Folder:
+`RFID-Hybrid-Enclosure`
 
 ---
 
-# Siemens NX
+### 3. Dual-Axis Solar Panel Gimbal Mechanism
 
-<img src="NX/1.png" width="850"/>
+Conceptual mechanical design of a dual-axis solar tracking mechanism for maximizing solar energy collection.
+
+**Highlights**
+- Dual-Axis Motion
+- Gear Mechanism
+- Bearing Selection
+- Structural Design
+- Design Calculations
+
+➡️ Project Folder:
+`Dual-Axis-Solar-Panel-Gimbal-Mechanism`
 
 ---
 
-# Engineering Drawings
+## Software Used
 
-<img src="Drawings/1.png" width="850"/>
+- Creo Parametric
+- SolidWorks
+- CATIA V5
+- AutoCAD
 
-<img src="Drawings/2.png" width="850"/>
+---
+
+⭐ Additional engineering projects will be added regularly.

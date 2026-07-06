@@ -1,5 +1,10 @@
 <div align="center">
 
+![Project](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![Industry](https://img.shields.io/badge/Aerospace-74ACDF?style=for-the-badge)
+![CAD](https://img.shields.io/badge/Creo-0A66C2?style=for-the-badge)
+![Mechanism](https://img.shields.io/badge/Mechanism%20Design-74ACDF?style=for-the-badge)
+
 # ☀️ Dual-Axis Solar Panel Gimbal Mechanism
 
 ### Aerospace Mechanical Design | Space Mechanisms | Product Development

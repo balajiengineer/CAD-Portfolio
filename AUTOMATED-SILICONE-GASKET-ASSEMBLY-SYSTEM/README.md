@@ -219,6 +219,30 @@ The complete design report, including the concept development, design methodolog
 
 ---
 
+# 🖼️ Project Gallery
+
+## Overall System Layout
+
+<img src="CAD_Images/System_Layout.png" width="900"/>
+
+---
+
+## Final CAD Assembly
+
+<img src="CAD_Images/Final_Assembly.png" width="900"/>
+
+---
+
+## Hopper
+
+<img src="CAD_Images/Hopper.png" width="700"/>
+
+---
+
+## SCARA Robot
+
+<img src="CAD_Images/SCARA_Robot.png" width="700"/>
+
 # 🏆 Skills Demonstrated
 
 - Mechanical Design

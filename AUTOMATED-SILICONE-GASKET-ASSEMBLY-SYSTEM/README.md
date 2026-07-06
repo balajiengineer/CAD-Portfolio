@@ -1,5 +1,10 @@
 <div align="center">
 
+![Project](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Industrial%20Automation-74ACDF?style=for-the-badge)
+![SCARA](https://img.shields.io/badge/SCARA-Robot-0A66C2?style=for-the-badge)
+![Machine](https://img.shields.io/badge/Machine%20Design-74ACDF?style=for-the-badge)
+
 # 🤖 Automated Silicone Gasket Assembly System for Glass Lids
 
 ### Mechanical Automation | Machine Design | SCARA Robotics | Pneumatics
@@ -10,6 +15,7 @@
 ![Production](https://img.shields.io/badge/Target-60%20PPM-brightgreen)
 
 ---
+## Mechanical Design Portfolio
 
 ### Designed & Developed by
 

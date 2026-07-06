@@ -16,7 +16,7 @@
 
 ---
 
-## Mechanical Design Assessment
+## Mechanical Design Portfolio
 
 Designed by
 

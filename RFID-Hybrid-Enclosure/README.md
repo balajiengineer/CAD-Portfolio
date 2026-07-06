@@ -1,5 +1,10 @@
 <div align="center">
 
+![Project](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![Product](https://img.shields.io/badge/Product%20Design-74ACDF?style=for-the-badge)
+![Injection](https://img.shields.io/badge/Injection%20Moulding-0A66C2?style=for-the-badge)
+![CAD](https://img.shields.io/badge/Creo-74ACDF?style=for-the-badge)
+
 # 📡 RFID Hybrid Enclosure
 
 ### Mechanical Design | Product Development | Injection Moulding | CNC | GD&T
@@ -9,6 +14,7 @@
 ![Manufacturing](https://img.shields.io/badge/Manufacturing-DFM-orange)
 
 ---
+## Mechanical Design Portfolio
 
 ### Designed by
 

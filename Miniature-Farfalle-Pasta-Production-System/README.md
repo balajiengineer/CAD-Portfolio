@@ -140,6 +140,8 @@ The assembly consists of:
 
 <img src="Images/Exploded_View.png" width="900"/>
 
+<img src="Images/Exploded_View2.png" width="900"/>
+
 ---
 
 

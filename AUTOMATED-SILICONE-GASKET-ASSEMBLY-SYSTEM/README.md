@@ -211,9 +211,37 @@ Appropriate mitigation methods such as singulation lanes, inspection cameras and
 
 # 📄 Project Report
 
-📥 Complete engineering report available in this repository.
+The complete design report, including the concept development, design methodology, engineering calculations, CAD layouts, risk assessment, cost estimation, and final system integration, is available below.
+
+## 📥 View / Download Report
+
+➡️ **[📄 Automated Silicone Gasket Assembly System for Glass Lids - Project Report](./Project_Report.pdf)**
 
 ---
+
+# 🖼️ Project Gallery
+
+## Overall System Layout
+
+<img src="CAD_Images/System_Layout.png" width="900"/>
+
+---
+
+## Final CAD Assembly
+
+<img src="CAD_Images/Final_Assembly.png" width="900"/>
+
+---
+
+## Hopper
+
+<img src="CAD_Images/Hopper.png" width="700"/>
+
+---
+
+## SCARA Robot
+
+<img src="CAD_Images/SCARA_Robot.png" width="700"/>
 
 # 🏆 Skills Demonstrated
 

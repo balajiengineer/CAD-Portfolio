@@ -1,5 +1,11 @@
 <div align="center">
 
+![Project](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)
+![Machine](https://img.shields.io/badge/Precision%20Machine-74ACDF?style=for-the-badge)
+![Food](https://img.shields.io/badge/Food%20Grade-0A66C2?style=for-the-badge)
+![CAD](https://img.shields.io/badge/Creo-74ACDF?style=for-the-badge)
+
+
 # 🍝 Miniature Farfalle Pasta Production System
 
 ### Senior Mechanical Engineer Technical Assessment
@@ -11,6 +17,7 @@ Mechanical Design | Miniaturization | Machine Design | DFM
 ![Assessment](https://img.shields.io/badge/Assessment-Mechanical%20Design-orange)
 
 ---
+## Mechanical Design Portfolio
 
 ### Designed by
 

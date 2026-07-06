@@ -51,7 +51,7 @@ Conceptual mechanical design of a dual-axis solar tracking mechanism for maximiz
 
 ---
 
-### 🍝 Miniature Farfalle Pasta Production System
+### 4. Miniature Farfalle Pasta Production System
 
 Senior Mechanical Engineer technical assessment focused on miniaturizing an industrial pasta forming process while maintaining manufacturability and food-grade design standards.
 
